@@ -1,0 +1,10 @@
+---
+title: "Lab 8 - Linear Regressions in R"
+author: "Sam Csik"
+date: "11/20/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
